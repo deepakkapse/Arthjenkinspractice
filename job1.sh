@@ -1,5 +1,6 @@
 echo "Hello india"
-echo"workng"
+echo "workng"
+echo "check now" 
 date
 cal
 date
